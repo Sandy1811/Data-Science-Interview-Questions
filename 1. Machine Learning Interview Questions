@@ -1,0 +1,51 @@
+S.No	Questions
+1	What are MSE and RMSE
+2	Explain DBSCAN algorithm
+3	What are dummy variables
+4	What is anomaly detection
+5	What is Bayesian inference
+6	What is the R-Suared value
+7	What about ordinal features
+8	Loss functions in regression
+9	What are Recommender Systems
+10	Undersampling vs Oversampling
+11	What is reinforcement learning
+12	Do we call Knn a lazy algorithm
+13	Define a Monte Carlo simulation
+14	Does Kmeans and Kmeans++ is same
+15	What is pruning in Decision Tree
+16	How does an XGB control overfitting
+17	What is the class imbalance problem
+18	Why is lightGBM prone to overfitting
+19	Name any one distance based algorithm
+20	What is the objective function for Knn
+21	What is the standard error of the mean
+22	What are some disadvantages of K-means
+23	What is data augmentation Give examples
+24	What is Euclidean and Manhatten distance
+25	What is the role of gamma in RBF kernels
+26	How would you handle an imbalanced dataset
+27	Is it a good idea to combine multiple trees
+28	How do support vector machine algorithms work
+29	What is the significance of Residual Networks
+30	What does it mean to have low MAE and high MSE
+31	What are the disadvantages of linear regression
+32	What is a recommendation engine How does it work
+33	What is K-means How can you select K for K-means
+34	Does Radial basis kernel function is there in SVM
+35	What is linear regression Why is it called linear
+36	Is pruning always a good method to construct a tree
+37	What is the difference between bagging and boosting
+38	Which algorithm uses margin to classify the classes
+39	What algorithm can be used to summarize twitter feed
+40	How do you generate arbitrary or random shape clusters
+41	How to compute standard error of median in a simple way
+42	How does GBDTs decide to split a node What does it minimize
+43	What is the difference between R-suare and Adjusted R-suare
+44	How is matrix factorization useful in recommendation systems
+45	What are the approximation methods in Reinforcement Learning
+46	What is the difference between an error and a residual error
+47	Why does training an SVM takes a long time How can I speed up
+48	Difference between bagging boosting and the relation to bayes theorem
+49	Which algorithm takes the data to the next dimension and then classify
+50	What are categorical variables and what do we do with categorical variables
